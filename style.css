@@ -11,7 +11,7 @@ body {
   width: 50%;
   background-color: LightGray;
   opacity: 0.9;
-  border-radius: 20px;
+  border-radius: 15px;
   animation: fallingDown 1.8s forwards 0s ease;
 }
 
